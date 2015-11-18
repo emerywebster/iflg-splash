@@ -84,10 +84,9 @@ a:after {
   font-size: 14px;
   font-weight: normal;
   line-height: 1.428571429;
-  text-align: center;
+  text-align: left;
   white-space: nowrap;
   vertical-align: middle;
-  cursor: pointer;
   -webkit-user-select: none;
      -moz-user-select: none;
       -ms-user-select: none;
